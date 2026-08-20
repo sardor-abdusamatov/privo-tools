@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#020617"/>
+  <circle cx="184" cy="106" r="220" fill="#0F766E" fill-opacity="0.28"/>
+  <circle cx="1024" cy="120" r="180" fill="#0369A1" fill-opacity="0.22"/>
+  <circle cx="980" cy="540" r="230" fill="#14532D" fill-opacity="0.22"/>
+  <rect x="72" y="74" width="1056" height="482" rx="36" fill="#0F172A" stroke="#334155"/>
+  <rect x="112" y="118" width="248" height="96" rx="24" fill="#052E2B" stroke="#34D399" stroke-opacity="0.28"/>
+  <text x="144" y="175" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">100% Free &amp; Private</text>
+  <text x="112" y="300" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800">Privacy Tools Suite</text>
+  <text x="112" y="356" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="500">Image Compression, JSON Formatting, Hashing, and QR Generation</text>
+  <text x="112" y="404" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="500">All browser-based. No uploads. No backend. No tracking.</text>
+  <rect x="112" y="454" width="220" height="56" rx="18" fill="#34D399"/>
+  <text x="145" y="490" fill="#020617" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Local Processing</text>
+  <rect x="846" y="148" width="196" height="126" rx="24" fill="#111827" stroke="#334155"/>
+  <rect x="846" y="292" width="196" height="126" rx="24" fill="#111827" stroke="#334155"/>
+  <rect x="846" y="436" width="196" height="76" rx="24" fill="#111827" stroke="#334155"/>
+  <text x="876" y="220" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Compress</text>
+  <text x="876" y="364" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Validate</text>
+  <text x="876" y="484" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Generate</text>
+</svg>
